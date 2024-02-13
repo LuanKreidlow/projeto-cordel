@@ -72,7 +72,8 @@ section > pre{
 }
 
 section pre p{
-    padding-bottom: 2em;
+    letter-spacing: 3px;
+    font-size: 0.7em;
 }
 
 section.normal{
